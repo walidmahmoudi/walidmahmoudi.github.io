@@ -1,4 +1,4 @@
-var imgs = ["nice.jpg","happy.png","carrot.jpg","friend.jpg","explosion.jpg"]
+var imgs = ["nice.jpg","happy.jpg","carrot.jpg","friend.jpg","explosion.jpg"]
 var En = ["nice","happy","carrot","friend","explosion"]
 var sr = ["Lijepo","Srećan","Šargarepa","Prijatelju","Eksplozija"]
 var cmpQ = 0
