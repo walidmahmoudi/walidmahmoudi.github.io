@@ -7,7 +7,6 @@
 }
 body{
   background-color: #FF6700;
-  /*background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7f7 100%);*/
   font-family: 'Poppins', sans-serif;
   display: flex;
   align-items: center;
@@ -40,11 +39,6 @@ border-radius:10px;
 }
 
 button{
- /*
-  width: 25%;
-  
-
-  margin-top:75px;*/
 
   position: absolute;
   width:25%;
@@ -79,7 +73,6 @@ z-index: 2;
 width:55%;
 height:55%;
 left:22%;
-
 top:5%;
 background: #FFFFFF;
 
@@ -90,7 +83,7 @@ border-radius:10px;
 position: absolute;
 width: 35%;
 height: 10%;
-/*left: 37%;*/
+
 top: 3%;
 margin-left: auto;
 margin-right: auto;
